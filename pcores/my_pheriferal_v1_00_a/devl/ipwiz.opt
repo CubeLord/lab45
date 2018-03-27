@@ -1,0 +1,10 @@
+-batch 
+-create my_pheriferal 
+-ver 1.00.a 
+-dir "C:\ra562015\git\lab4_i_5" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 

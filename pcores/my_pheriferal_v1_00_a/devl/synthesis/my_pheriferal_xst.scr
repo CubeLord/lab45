@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\ra562015\git\lab4_i_5\pcores\my_pheriferal_v1_00_a\devl\synthesis\my_pheriferal_xst.prj"
+-top my_pheriferal
+-p virtex6
+-ofn "C:\ra562015\git\lab4_i_5\pcores\my_pheriferal_v1_00_a\devl\synthesis\my_pheriferal_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib my_pheriferal_v1_00_a
